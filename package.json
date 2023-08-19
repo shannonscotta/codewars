@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "mocha testing/petpawty.spec.js"
+    "test": "mocha testing/petPawty.spec.js"
   },
   "keywords": [],
   "author": "",
